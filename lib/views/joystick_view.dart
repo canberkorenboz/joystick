@@ -60,7 +60,7 @@ class JoystickView extends StatelessWidget {
   JoystickView(
       {this.size,
       this.iconsColor = Colors.white54,
-      this.backgroundColor = Colors.blueGrey,
+      this.backgroundColor = Colors.red,
       this.innerCircleColor = Colors.blueGrey,
       this.opacity,
       this.onDirectionChanged,
