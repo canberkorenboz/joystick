@@ -20,7 +20,7 @@ class CircleView extends StatelessWidget {
 
   CircleView({
     this.size,
-    this.color = Colors.transparent,
+    this.color = Colors.white54,
     this.boxShadow,
     this.border,
     this.opacity,
